@@ -1,5 +1,3 @@
 
 # gitskills.
-C
-dsf
-I
+Tang Dom?
